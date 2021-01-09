@@ -22,3 +22,9 @@ PICTURE
 
 PICTURE
 
+# How to run the code
+
+- Clone the repository.
+- Download and install the latest version of VLFeat for Matlab [here](https://www.vlfeat.org/download.html) (neccessary for SIFT)
+- Add the *Final_Project_CV* folder (and subfolders) as well as the downloaded VLFeat folder (and subfolders) to your path in Matlab.
+- Run the script *FINAL_Project_CV.m*.
