@@ -1,6 +1,7 @@
 # TU Delft Computer Vision Lab Final Project 2019
 
 This project was the final project of the Computer Vision course at the Delft University of Technology in 2019. My assigned project partner was @martijnvwezel ([Link to his Repo](https://github.com/martijnvwezel?tab=repositories)).
+
 The goal of the project was the 3D reconstruction of a model castle as well as a teddy bear by using a sequence of images made from different perspectives around the object.
 The total project work is divided into five sections: Feature extraction and matching, RANSAC, Chaining, Stitching and the 3D visualization (for details, please have a look to our final report [here](/CV_Final_project_3D_reconstruction_Report.pdf)):
 
