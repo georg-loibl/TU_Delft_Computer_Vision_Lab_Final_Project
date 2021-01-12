@@ -1,4 +1,4 @@
-# TU Delft Computer Vision Lab Final Project 2019
+# TU Delft Computer Vision Lab Final Project
 
 This project was the final project of the Computer Vision course at the Delft University of Technology in 2019. My assigned project partner was [@martijnvwezel](https://github.com/martijnvwezel?tab=repositories).
 
