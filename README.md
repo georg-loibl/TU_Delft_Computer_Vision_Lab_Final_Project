@@ -24,13 +24,12 @@ The total project work is divided into five sections: Feature extraction and mat
 
 5. 3D visualization by assigning corresponding RGB values
 
-<img src="/Pictures/06_Teddy_Visualization_3Dpoints_OWN_features_front_cut.png" width="25%" height="25%"/> <img src="/Pictures/06_Teddy_image_1.png" width="31%" height="31%"/>
-
-<img src="/Pictures/06_Castle_Visualization_3Dpoints_OWN_features_front_cut.png" width="35%" height="35%"/> <img src="/Pictures/06_Castle_image_1.png" width="35%" height="35%"/>
-
+<img src="/Pictures/06_Teddy_Visualization_3Dpoints_OWN_features_front_cut.png" width="25%" height="25%"/> <img src="/Pictures/06_Castle_Visualization_3Dpoints_OWN_features_front_cut.png" width="35%" height="35%"/>
 # How to run the code
 
 - Clone the repository.
 - Download and install the latest version of VLFeat for Matlab [here](https://www.vlfeat.org/download.html) (neccessary for SIFT)
 - Add the *Final_Project_CV* folder (and subfolders) as well as the downloaded VLFeat folder (and subfolders) to your path in Matlab.
+- Edit the path of the folder in which you store your pictures in *FINAL_Project_CV.m*.
 - Run the script *FINAL_Project_CV.m*.
+- Adjust parameters to optimize results
